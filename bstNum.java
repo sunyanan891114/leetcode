@@ -10,6 +10,6 @@ public class bstNum {
 		return result;
 	}
 	public static void main(String[] args){
-		System.out.println(numTrees(4));
+		System.out.println(numTrees(3));
 	}
 }
